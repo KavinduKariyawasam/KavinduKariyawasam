@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋  
+
+I'm **Kavindu Kariyawasam** *(he/him)*, an **Electronic and Telecommunication Engineering undergraduate** passionate about **machine learning** 🚀 and **electronics** 📻.  
+
+- 💻 **Exploring** the intersection of AI, computer vision, and cutting-edge technologies.  
+- 🔍 **Fascinated by** building practical solutions with deep learning, remote sensing, and generative AI.  
+- 🌱 **Currently Learning:** Advanced ML techniques and applying AI to solve real-world problems.  
+- 📫 **Let's Connect:** Feel free to check out my projects
 
 <!--
 **KavinduKariyawasam/KavinduKariyawasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
