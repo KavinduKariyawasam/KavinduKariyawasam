@@ -17,11 +17,13 @@ I am a passionate developer with a love for technology and continuous learning. 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)
 
+<!---
 ### 📈 GitHub Stats:
 ![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinduKariyawasam&show_icons=true&theme=radical)
 
 ### 🏆 My Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=KavinduKariyawasam&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+--->
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-kavindukariyawasam16371/)
