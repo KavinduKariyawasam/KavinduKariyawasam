@@ -8,7 +8,7 @@ I am a passionate developer with a love for technology and continuous learning. 
 - 🌱 I’m currently learning advanced concepts in machine learning.
 - 👯 I’m looking to collaborate on innovative projects that aim to make a difference.
 - 💬 Ask me about machine learning, deep learning, computer vision.
-- 📫 How to reach me: [kavindu@example.com](mailto:kkdkariyawasam@gmail.com)
+- 📫 How to reach me: [kkdkariyawasam@gmail.com](mailto:kkdkariyawasam@gmail.com)
 - ⚡ Fun fact: I love exploring new places and cultures in my free time.
 
 ### 🛠️ Languages and Tools:
